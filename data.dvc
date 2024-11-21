@@ -1,0 +1,13 @@
+md5: 93c66aefa7347acf508f1b4327527277
+frozen: true
+deps:
+- path: data
+  repo:
+    url: /home/anmol/Desktop/dvcpract
+    rev_lock: f8174af603f453f3458d5439706f802a307ca28e
+outs:
+- md5: 5a62d134d5e8c6876829532833061aa5.dir
+  size: 229927360
+  nfiles: 277
+  hash: md5
+  path: data
